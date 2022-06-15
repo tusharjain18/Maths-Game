@@ -138,7 +138,7 @@ html{
     /*visibility: hidden;*/
     display: none;
 }
-#gameover{
+#gameOver{
     height: 200px;
     width: 500px;
     background: linear-gradient(#F3CA6B,#F3706C);
